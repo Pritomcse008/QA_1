@@ -2,4 +2,9 @@ This is text 1
 update 
 update 2
 update 3
+<<<<<<< HEAD
 update 4 at 31 May 2024
+=======
+update 28/05/2024
+update 2- 28 may
+>>>>>>> 5d09b5d033be7ec3650ecb2f17a87043ced8763b
